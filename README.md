@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Narendra Lodhi</h1>
+<h1 align="center">Hi 👋, I'm Narendra Singh Lodhi</h1>
 <h3 align="center">A passionate Front End Developer from India</h3>
 
 - 🌱 I’m currently learning **HTML, HTML5**
